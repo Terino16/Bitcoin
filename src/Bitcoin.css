@@ -1,0 +1,32 @@
+*{ box-sizing: border-box;
+  text-align: center;
+}
+
+body, html {
+    height: 100%;
+    margin: 0px ;
+  }
+.Btc{
+ 
+    background-image: url("./paul-volkmer-fX-qWsXl5x8-unsplash.jpg");
+    height: 1080px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.Btc{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(255, 255, 255);
+  font-size: 50px;
+  padding: 20px;
+ 
+}
+.Btcimg{
+  width: 200px;
+}
+.text{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+
+}

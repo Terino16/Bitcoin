@@ -2,12 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 // import Head from "./Head"
 // import Mid from './mid'
-import Api from "./Apiuse/Api.js"
+import Bitcoin from "./Bitcoin.js"
 function wish()
 {
    return(
       <div>
-    <Api/>
+    <Bitcoin/>
       </div>
    )
 }
